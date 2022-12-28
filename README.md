@@ -1,10 +1,10 @@
 # mac-setup
 My Mac apps that will always be installed.
 
-## How to install all apps
+## How to install from list
 1. Open terminal.
 2. In the same directory as this repository, type `xargs brew install < homebrew-list.txt`.
 
-## How to create a `homebrew-list.txt`
+## How to create a list
 1. Open terminal. 
 2. To create a list of Homebrew apps, use `brew list > homebrew-list.txt`.
