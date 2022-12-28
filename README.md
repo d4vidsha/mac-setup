@@ -5,4 +5,4 @@ My Mac apps that will always be installed.
 1. Open terminal.
 2. In the same directory as this repository, type `xargs brew install < homebrew-list.txt`.
 
-To create a list of Homebrew apps, use `brew list`.
+To create a list of Homebrew apps, use `brew list > homebrew-list.txt`.
