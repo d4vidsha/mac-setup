@@ -185,9 +185,11 @@ nordvpn
 notion
 obsidian
 powershell
+raycast
 signal
 skim
 spotify
+stats
 toggl-track
 tor-browser
 upwork
