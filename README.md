@@ -10,3 +10,6 @@ My Mac apps that will always be installed.
 1. Open terminal. 
 2. To create a list of Homebrew apps, use `brew list > homebrew-list.txt`.
 3. To create a list of Mac App Store (MAS) apps, use `mas list > mas-list.txt`.
+
+---
+All lists updated at 28/12/2022
