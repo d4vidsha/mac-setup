@@ -11,7 +11,7 @@ brew bundle
 ## How to create Brewfiles
 
 ```bash
-brew bundle dump
+brew bundle dump -f
 ```
 
 ## Periodically check up on brew packages
