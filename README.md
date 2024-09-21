@@ -2,16 +2,18 @@
 
 Setting up a new Mac should be easy.
 
-## How to install from Brewfiles
+## How to restore from Brewfiles and other backups
+
+Note that you will need to be present for the installation as some packages require user input.
 
 ```bash
-brew bundle
+/bin/bash scripts/restore.sh
 ```
 
-## How to create Brewfiles
+## How to create backups
 
 ```bash
-brew bundle dump -f
+/bin/bash scripts/backup.sh
 ```
 
 ## Periodically check up on brew packages

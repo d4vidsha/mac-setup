@@ -11282,6 +11282,12 @@
         "options": {
           "full_name": "zoom"
         }
+      },
+      "screen-studio": {
+        "version": "2.25.25",
+        "options": {
+          "full_name": "screen-studio"
+        }
       }
     },
     "mas": {
