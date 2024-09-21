@@ -2,7 +2,7 @@
 
 Setting up a new Mac should be easy.
 
-## How to install from lists
+## How to install from Brewfiles
 
 ```bash
 brew bundle
