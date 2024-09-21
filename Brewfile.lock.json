@@ -10954,7 +10954,7 @@
         }
       },
       "hashicorp/tap/terraform": {
-        "version": "1.9.5",
+        "version": "1.9.6",
         "bottle": false
       },
       "jesseduffield/lazygit/lazygit": {
@@ -11206,7 +11206,7 @@
         }
       },
       "rustdesk": {
-        "version": "1.3.0",
+        "version": "1.3.1",
         "options": {
           "full_name": "rustdesk"
         }
@@ -11356,6 +11356,10 @@
       "WireGuard": {
         "id": "1451685025",
         "version": "1.0.16"
+      },
+      "Windows App": {
+        "id": "1295203466",
+        "version": "11.0.0"
       }
     },
     "vscode": {
@@ -11475,7 +11479,7 @@
   "system": {
     "macos": {
       "sequoia": {
-        "HOMEBREW_VERSION": "4.3.23-53-g29c22e0",
+        "HOMEBREW_VERSION": "4.3.23",
         "HOMEBREW_PREFIX": "/opt/homebrew",
         "Homebrew/homebrew-core": "api",
         "CLT": "16.0.0.0.1.1724870825",
