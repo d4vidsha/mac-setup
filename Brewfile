@@ -242,12 +242,10 @@ mas "Color Picker", id: 1545870783
 mas "Dark Reader for Safari", id: 1438243180
 mas "Meeter", id: 1510445899
 mas "MenubarX", id: 1575588022
-mas "Notability", id: 360593530
 mas "Pi-hole Remote", id: 1515445551
 mas "Slack", id: 803453959
 mas "Sorted", id: 1306893526
 mas "Termius", id: 1176074088
-mas "TestFlight", id: 899247664
 mas "Things", id: 904280696
 mas "Toggl Track", id: 1291898086
 mas "Voice Dream Reader", id: 972112040
