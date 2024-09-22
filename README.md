@@ -35,3 +35,13 @@ And finally clean up any leftover dependencies with
 ```bash
 brew autoremove
 ```
+
+## Other setup
+
+There are other manual steps such as:
+
+- importing SSH keys from time machine backups
+- reordering menubar icons
+- organising desktop widgets
+- installing Wireguard VPN profile
+- setting up Obsidian with selfhosted livesync

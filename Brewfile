@@ -198,7 +198,6 @@ cask "applepi-baker"
 cask "authy"
 cask "backuploupe"
 cask "balenaetcher"
-cask "bitwarden"
 cask "brave-browser"
 cask "chatgpt"
 cask "cheatsheet"
@@ -238,6 +237,7 @@ cask "whisky"
 cask "wireshark"
 cask "zoom"
 mas "Amphetamine", id: 937984704
+mas "Bitwarden", id: 1352778147
 mas "Color Picker", id: 1545870783
 mas "Dark Reader for Safari", id: 1438243180
 mas "Meeter", id: 1510445899
